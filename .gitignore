@@ -1,0 +1,5 @@
+node_modules
+db/database.json
+analisis.txt
+pruebas.js
+.env
